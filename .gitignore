@@ -1,0 +1,1 @@
+printf "public/\nresources/\n.hugo_build.lock\n" > .gitignore
