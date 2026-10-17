@@ -2,7 +2,7 @@
 title: "Hi, I'm nmesoma"
 date: 2026-10-17
 tags: ["intro"]
-draft: true
+draft: false
 ---
 So, hello? uhm i'm soma, nmesoma actually nmesoma or soma is fine
 who am i?, uhh a hacker yeah i guess, uhm i make shit, games tools, random formula one engines at 3am,
