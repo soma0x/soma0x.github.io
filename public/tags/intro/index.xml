@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Intro on soma0x</title>
+    <link>http://localhost:1313/tags/intro/</link>
+    <description>Recent content in Intro on soma0x</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Oct 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/intro/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi, I&#39;m nmesoma</title>
+      <link>http://localhost:1313/posts/firstentry/</link>
+      <pubDate>Sat, 17 Oct 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/firstentry/</guid>
+      <description>&lt;p&gt;So, hello? uhm i&amp;rsquo;m soma, nmesoma actually nmesoma or soma is fine
+who am i?, uhh a hacker yeah i guess, uhm i make shit, games tools, random formula one engines at 3am,
+i think it?, then i make it
+uhm why am i doing this?
+Well i wanted this to be like a digital diary yk, nothing too crazy, i don&amp;rsquo;t even think anyone would read this
+it&amp;rsquo;s for me as much as it&amp;rsquo;s for the general public
+so this is just a first entry nothing to crazy just basic introductions&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
