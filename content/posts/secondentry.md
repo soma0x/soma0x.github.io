@@ -15,10 +15,10 @@ so when i saw it was on sale?, i thought why not
 So i decided to buy it, downloaded it
 
 Let's get this out the way, the game is very beautiful i'll give it that
-but or an RPG it's really plaini'll explain
+but or an RPG it's really plain i'll explain
 
 
-So when i was buying tis game i was expecting a huge open worl with a nice story okay
+So when i was buying this game i was expecting a huge open worl with a nice story okay
 they crushed the open world aspect, 10/10
 but the story?
 
