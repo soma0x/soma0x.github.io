@@ -1,13 +1,42 @@
 baseURL = "https://soma0x.github.io/"
-languageCode = "en-us"
-title = "soma0x"
+locale = "en-us"
+title = "nmesoma"
 theme = "PaperMod"
+pagerSize = 10
 
 [params]
   defaultTheme = "auto"
   ShowReadingTime = true
   ShowToc = true
+  ShowPostNavLinks = true
+  ShowCodeCopyButton = true
+  ShowBreadCrumbs = false
   mainSections = ["posts"]
+  description = "A digital diary of things I build, break and play."
+
+  [params.homeInfoParams]
+    Title = "hi, I'm nmesoma"
+    Content = "something"
+
+[[menu.main]]
+  name = "Posts"
+  url = "/posts/"
+  weight = 1
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 3
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 4
 
 [taxonomies]
   tag = "tags"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
