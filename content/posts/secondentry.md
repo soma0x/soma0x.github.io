@@ -1,5 +1,5 @@
 ---
-title: "Hi, I'm nmesoma"
+title: "Hogwarts"
 date: 2026-10-18
 tags: ["games"]
 draft: false
